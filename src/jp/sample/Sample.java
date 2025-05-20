@@ -136,7 +136,7 @@ public class Sample {
 		
 	}
 	public static void greet() {
-	    System.out.println("こんにちは！Javaプログラミングの世界へようこそ！");
+	    System.out.println("こんにちは！Javaプログラミングの世界へようこそ");
 	}
 	public static void showTriangle(int size) {
 		for (int i = 1; i <=size; i++) {
