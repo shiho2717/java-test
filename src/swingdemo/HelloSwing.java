@@ -40,7 +40,6 @@ public class HelloSwing {
                 label.setText("ok");
             });
 
-            frame.setVisible(true);
         });
     }
 }
